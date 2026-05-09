@@ -15,7 +15,7 @@ I leverage a versatile toolkit to solve complex business problems:
 
     Machine Learning: Scikit-learn, XGBoost, and Deep Learning frameworks.
 
-    Infrastructure & Tools: Docker, Git/GitHub Actions, Cloud Services (AWS/Azure/GCP).
+    Infrastructure & Tools: Docker, Git/GitHub Actions, Cloud Services (AWS).
 
     Visualization: Power BI, Tableau, and programmatic plotting (Matplotlib, Seaborn, Plotly).
 
@@ -23,9 +23,13 @@ I leverage a versatile toolkit to solve complex business problems:
 Bash
 
 ├── 📓 Notebooks          # Exploratory Data Analysis (EDA) & Model Prototyping
+
 ├── 📜 Scripts            # Python & R automation scripts for production
+
 ├── 🗄️ SQL_Lab             # Advanced queries, stored procedures & optimization
+
 ├── 🚀 Corporate_Projects  # End-to-end business cases & deployments
+
 └── 📊 Examples           # Proof of Concepts (PoC) and technical snippets
 
 💼 Corporate Implementation Focus
@@ -42,4 +46,4 @@ As a Global Freelance Data Engineer and Programmer, I focus on:
 
 I am currently operating as a Global Freelancer. If you are looking for robust data solutions or need to architect a data-driven strategy for your company, let's connect!
 
-    LinkedIn: [https://www.linkedin.com/in/rafaelpuyau]
+    [LinkedIn](https://www.linkedin.com/in/rafaelpuyau)
